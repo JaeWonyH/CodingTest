@@ -1,24 +1,84 @@
-# Compiled class file
-*.class
+# IntelliJ 관련 파일
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
 
-# Log file
+# 빌드 디렉토리
+/target/
+/build/
+/bin/
+
+# 로그 파일
 *.log
+*.log.*
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
+# OS/툴 관련 파일
+.DS_Store
+Thumbs.db
+*.class
 *.jar
 *.war
-*.nar
 *.ear
-*.zip
-*.tar.gz
-*.rar
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+# Maven
+.mvn/
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# Gradle
+.gradle/
+build/
+!gradle-wrapper.jar
+
+# 환경 설정 파일 (Optional)
+*.env
+.env.*
+
+# 테스트 결과
+/test-output/
+
+# IDE 백업/캐시 파일
+*.swp
+*.swo
+*.bak
+
+# IntelliJ의 설정 저장 파일
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries/
+.idea/libraries/
+
+# Java 파일 생성물
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Lombok generated files
+.lombok/
+
+# 기타
+*.tmp
+*.pid
+*.pid.lock
+*.orig
+*.rej
+*.diff
+*.patch
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.bak
+*.swp
+*.swo
+*.swn
+*.old
+
+# Git 자체와 충돌할 수 있는 파일
+/.git/
