@@ -49,7 +49,7 @@
 |     |      |       |                                                      |       |     |
 | --- | ---- | ----- | ---------------------------------------------------- | ----- | --- |
 | 번호  | 난이도  | 문제번호  | 문제                                                   | 풀이 여부 | 비고  |
-| 1   | 브론즈4 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720)       |       |     |
+| 1   | 브론즈4 | 11720 | [숫자의 합](https://www.acmicpc.net/problem/11720)       | O      | 문자열 입력/출력 방식 확인 - BufferReader, Scanner     |
 | 2   | 브론즈2 | 9046  | [복호화](https://www.acmicpc.net/problem/9046)          |       |     |
 | 3   | 브론즈1 | 10798 | [세로 읽기](https://www.acmicpc.net/problem/10798)       |       |     |
 | 4   | 브론즈1 | 1157  | [단어 공부](https://www.acmicpc.net/problem/1157)        |       |     |
