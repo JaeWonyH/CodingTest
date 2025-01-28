@@ -92,7 +92,7 @@
 | --- | --- | ----- | ------------------------------------------------------------ | ----- | --- |
 | 번호  | 난이도 | 문제번호  | 문제                                                           | 풀이 여부 | 비고  |
 | 1   | 실버4 | 10828 | [스택](https://www.acmicpc.net/problem/10828)                  |       |     |
-| 2   | 실버4 | 10845 | [큐](https://www.acmicpc.net/problem/10845)                   |       |     |
+| 2   | 실버4 | 10845 | [큐](https://www.acmicpc.net/problem/10845)                   |     O  | 큐와 디큐    |
 | 3   | 실버4 | 1620  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)      |       |     |
 | 4   | 실버4 | 3986  | [좋은 단어](https://www.acmicpc.net/problem/3986)                |       |     |
 | 5   | 실버4 | 2164  | [카드](https://www.acmicpc.net/problem/2164)                   |       |     |
