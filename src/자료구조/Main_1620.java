@@ -16,13 +16,15 @@ public class Main_1620 {
         //포켓몬 번호
         int count = 0;
         //포켓몬 도감 자료구조 -> hashmap
-        HashMap<Integer,String> poketmons = new HashMap<Integer,String>();
+        HashMap<Integer,String> poketmonsByNumber = new HashMap<Integer,String>();
+        HashMap<String,Integer> poketmonsByName = new HashMap<String,Integer>();
 
         //포켓몬 도감 초기화
         for(int i=0;i<n;i++ ){
             String poketmon = br.readLine();
             count++;
-            poketmons.put(count, poketmon);
+            poketmonsByNumber.put(count, poketmon);
+            poketmonsByName.put(poketmon,count);
         }
 
         //문제풀이
@@ -42,15 +44,11 @@ public class Main_1620 {
             }
             //숫자인경우 문제풀이
             if(isNum){
-                answer = poketmons.get(Integer.parseInt(problem));
+                answer = poketmonsByNumber.get(Integer.parseInt(problem));
             }
             //숫자가 아닌 경우 문제풀이
             else{
-                for(Integer key : poketmons.keySet()){
-                    if(poketmons.get(key).equals(problem)){
-                        answer = String.valueOf(key);
-                    }
-                }
+                answer = String.valueOf(poketmonsByName.get(problem));
             }
             System.out.println(answer);
         }
