@@ -95,7 +95,7 @@
 | 2   | 실버4 | 10845 | [큐](https://www.acmicpc.net/problem/10845)                   |     O  | 큐와 디큐    |
 | 3   | 실버4 | 1620  | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)      |    O   |  HashMap, 입력받은 문자열이 숫자인지?, Hashmap 전체 탐색 시 시간초과 가능성   |
 | 4   | 실버4 | 3986  | [좋은 단어](https://www.acmicpc.net/problem/3986)                |      X  | 다시 풀어보기    |
-| 5   | 실버4 | 2164  | [카드](https://www.acmicpc.net/problem/2164)                   |       |     |
+| 5   | 실버4 | 2164  | [카드](https://www.acmicpc.net/problem/2164)                   |     O  | 디큐    |
 | 6   | 실버3 | 9375  | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)              |       |     |
 | 7   | 실버3 | 1874  | [스택 수열](https://www.acmicpc.net/problem/1874)                |       |     |
 | 8   | 실버3 | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425)              |       |     |
