@@ -120,7 +120,7 @@
 | 번호  | 난이도  | 문제번호  | 문제                                                   | 풀이 여부 | 비고  |
 | 1   | 브론즈2 | 1978  | [소수 찾기](https://www.acmicpc.net/problem/1978)        |    O   | 소수는 제곱근(Math.sqrt()만큼 반복하여 나눠서 한번이라도 나머지 0이면 소수    |
 | 2   | 브론즈2 | 2581  | [소수](https://www.acmicpc.net/problem/2581)           |    O   |     |
-| 3   | 브론즈2 | 5618  | [공약수](https://www.acmicpc.net/problem/5618)          |       |     |
+| 3   | 브론즈2 | 5618  | [공약수](https://www.acmicpc.net/problem/5618)          |    △    |   최대공약수, 약수 구하기  |
 | 4   | 브론즈2 | 2745  | [진법 변환](https://www.acmicpc.net/problem/2745)        |       |     |
 | 5   | 브론즈2 | 22864 | [피로도](https://www.acmicpc.net/problem/22864)         |       |     |
 | 6   | 브론즈1 | 2609  | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) |       |     |
