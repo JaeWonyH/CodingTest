@@ -180,7 +180,7 @@
 | --- | ---- | ----- | ------------------------------------------------------ | ----- | --- |
 | 번호  | 난이도  | 문제번호  | 문제                                                     | 풀이 여부 | 비고  |
 | 1   | 브론즈2 | 19532 | [수학은 비대면 강의입니다](https://www.acmicpc.net/problem/19532) |   O    | 1차방정식의 해    |
-| 2   | 브론즈2 | 22864 | [피로도](https://www.acmicpc.net/problem/22864)           |       |     |
+| 2   | 브론즈2 | 22864 | [피로도](https://www.acmicpc.net/problem/22864)           |     O  |     |
 | 3   | 브론즈1 | 2309  | [일곱난쟁이](https://www.acmicpc.net/problem/2309)          |       |     |
 | 4   | 실버5  | 15721 | [번데기](https://www.acmicpc.net/problem/15721)           |       |     |
 | 5   | 실버5  | 1436  | [영화감독 숌](https://www.acmicpc.net/problem/1436)         |       |     |
